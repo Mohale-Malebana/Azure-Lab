@@ -26,7 +26,7 @@ In the prevous part of the project we deployed and secured Cloud infrastructure 
 
 ***Purpose:*** We'll create this workspace to capture data from Azure monitor.This is where all the Azure monitor logs are going to be stored.
 
-<img src="Screenshots\log.png" alt="My Image" style="width: 80%; height: auto;">  
+<img src="Screenshots\LOG.png" alt="My Image" style="width: 80%; height: auto;">  
 
 A Log Analytics workspace in Azure is a centralized data repository that acts as the foundational management unit for Azure Monitor Logs, used to collect, store, and query telemetry and log data from various cloud and on-premises resources.
 
